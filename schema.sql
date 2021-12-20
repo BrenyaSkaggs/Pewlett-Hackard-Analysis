@@ -66,3 +66,5 @@ SELECT * FROM titles;
 
 
 SELECT * FROM Departments 
+
+
